@@ -1,0 +1,185 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/24.7.17 Chrome/128.0.6613.36 Electron/32.0.1 Safari/537.36" version="24.7.17">
+  <diagram name="Page-1" id="2ybIyuE9Y46IWIBupEeK">
+    <mxGraphModel dx="2805" dy="673" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="FazVAZ5ABCCWiLlo9Mo_-17" value="&amp;nbsp;M.langois M salam" style="swimlane;horizontal=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-900" y="30" width="880" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="FazVAZ5ABCCWiLlo9Mo_-32" value="debut janvier" style="shape=or;whiteSpace=wrap;html=1;" vertex="1" parent="FazVAZ5ABCCWiLlo9Mo_-17">
+          <mxGeometry x="73" y="70" width="117" height="32" as="geometry" />
+        </mxCell>
+        <mxCell id="FazVAZ5ABCCWiLlo9Mo_-33" value="planification des produits" style="html=1;strokeWidth=2;shape=manualInput;whiteSpace=wrap;rounded=1;size=26;arcSize=11;" vertex="1" parent="FazVAZ5ABCCWiLlo9Mo_-17">
+          <mxGeometry x="260" y="40" width="100" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="FazVAZ5ABCCWiLlo9Mo_-34" value="prevoir les achat fruitleg" style="html=1;strokeWidth=2;shape=manualInput;whiteSpace=wrap;rounded=1;size=26;arcSize=11;" vertex="1" parent="FazVAZ5ABCCWiLlo9Mo_-17">
+          <mxGeometry x="436.5" y="70" width="100" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="FazVAZ5ABCCWiLlo9Mo_-35" value="discussion&amp;nbsp;" style="html=1;strokeWidth=2;shape=manualInput;whiteSpace=wrap;rounded=1;size=26;arcSize=11;" vertex="1" parent="FazVAZ5ABCCWiLlo9Mo_-17">
+          <mxGeometry x="621" y="40" width="100" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="FazVAZ5ABCCWiLlo9Mo_-69" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="FazVAZ5ABCCWiLlo9Mo_-17">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="190" y="90" as="sourcePoint" />
+            <mxPoint x="260" y="89.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FazVAZ5ABCCWiLlo9Mo_-70" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="FazVAZ5ABCCWiLlo9Mo_-17" target="FazVAZ5ABCCWiLlo9Mo_-34">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="360" y="91.5" as="sourcePoint" />
+            <mxPoint x="430" y="100" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FazVAZ5ABCCWiLlo9Mo_-71" value="" style="endArrow=classic;html=1;rounded=0;entryX=-0.022;entryY=0.631;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="FazVAZ5ABCCWiLlo9Mo_-17" target="FazVAZ5ABCCWiLlo9Mo_-35">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="539" y="86" as="sourcePoint" />
+            <mxPoint x="620" y="80" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FazVAZ5ABCCWiLlo9Mo_-19" value="M.langois" style="swimlane;horizontal=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-900" y="232" width="880" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="FazVAZ5ABCCWiLlo9Mo_-72" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="FazVAZ5ABCCWiLlo9Mo_-19" source="FazVAZ5ABCCWiLlo9Mo_-26" target="FazVAZ5ABCCWiLlo9Mo_-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FazVAZ5ABCCWiLlo9Mo_-26" value="Debut" style="shape=or;whiteSpace=wrap;html=1;" vertex="1" parent="FazVAZ5ABCCWiLlo9Mo_-19">
+          <mxGeometry x="80" y="38" width="53" height="32" as="geometry" />
+        </mxCell>
+        <mxCell id="FazVAZ5ABCCWiLlo9Mo_-28" value="identifications des fournisseur potentiels" style="html=1;strokeWidth=2;shape=manualInput;whiteSpace=wrap;rounded=1;size=26;arcSize=11;" vertex="1" parent="FazVAZ5ABCCWiLlo9Mo_-19">
+          <mxGeometry x="204" y="10" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="FazVAZ5ABCCWiLlo9Mo_-87" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="FazVAZ5ABCCWiLlo9Mo_-19" source="FazVAZ5ABCCWiLlo9Mo_-40">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="770" y="78" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FazVAZ5ABCCWiLlo9Mo_-40" value="etablissement des contrats" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="FazVAZ5ABCCWiLlo9Mo_-19">
+          <mxGeometry x="530" y="28" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="FazVAZ5ABCCWiLlo9Mo_-96" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="FazVAZ5ABCCWiLlo9Mo_-19">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="630" y="38" as="sourcePoint" />
+            <mxPoint x="810" y="38" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FazVAZ5ABCCWiLlo9Mo_-20" value="Systeme Informatise" style="swimlane;horizontal=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-903" y="435" width="980" height="464" as="geometry" />
+        </mxCell>
+        <mxCell id="FazVAZ5ABCCWiLlo9Mo_-107" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="FazVAZ5ABCCWiLlo9Mo_-20" source="FazVAZ5ABCCWiLlo9Mo_-50" target="FazVAZ5ABCCWiLlo9Mo_-60">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FazVAZ5ABCCWiLlo9Mo_-50" value="base de donnee" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.stored_data;whiteSpace=wrap;" vertex="1" parent="FazVAZ5ABCCWiLlo9Mo_-20">
+          <mxGeometry x="56.5" y="73.5" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FazVAZ5ABCCWiLlo9Mo_-60" value="Maj des listes de fournisseurs" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="FazVAZ5ABCCWiLlo9Mo_-20">
+          <mxGeometry x="240" y="87" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FazVAZ5ABCCWiLlo9Mo_-77" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="FazVAZ5ABCCWiLlo9Mo_-20" source="FazVAZ5ABCCWiLlo9Mo_-61" target="FazVAZ5ABCCWiLlo9Mo_-41">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="506" y="257" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FazVAZ5ABCCWiLlo9Mo_-61" value="listes des fournisseurs" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="FazVAZ5ABCCWiLlo9Mo_-20">
+          <mxGeometry x="480" y="73.5" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FazVAZ5ABCCWiLlo9Mo_-76" value="" style="endArrow=none;html=1;rounded=0;entryX=0.017;entryY=0.635;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="FazVAZ5ABCCWiLlo9Mo_-20" target="FazVAZ5ABCCWiLlo9Mo_-61">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="360" y="122" as="sourcePoint" />
+            <mxPoint x="440" y="112" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="370" y="112" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FazVAZ5ABCCWiLlo9Mo_-21" value="M.roy" style="swimlane;horizontal=0;whiteSpace=wrap;html=1;" vertex="1" parent="FazVAZ5ABCCWiLlo9Mo_-20">
+          <mxGeometry x="-2" y="280" width="982" height="184" as="geometry" />
+        </mxCell>
+        <mxCell id="FazVAZ5ABCCWiLlo9Mo_-79" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="FazVAZ5ABCCWiLlo9Mo_-21" source="FazVAZ5ABCCWiLlo9Mo_-41">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="355" y="271" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FazVAZ5ABCCWiLlo9Mo_-41" value="saisir la liste des fournisseur" style="html=1;strokeWidth=2;shape=manualInput;whiteSpace=wrap;rounded=1;size=26;arcSize=11;" vertex="1" parent="FazVAZ5ABCCWiLlo9Mo_-21">
+          <mxGeometry x="461" y="55" width="100" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="FazVAZ5ABCCWiLlo9Mo_-42" value="liste des fournisseur a contacter" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.document2;whiteSpace=wrap;size=0.25;" vertex="1" parent="FazVAZ5ABCCWiLlo9Mo_-21">
+          <mxGeometry x="621" y="65" width="100" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="FazVAZ5ABCCWiLlo9Mo_-22" value="M.langois et Fournisseur" style="swimlane;horizontal=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-905" y="901" width="985" height="278.75" as="geometry" />
+        </mxCell>
+        <mxCell id="FazVAZ5ABCCWiLlo9Mo_-81" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="FazVAZ5ABCCWiLlo9Mo_-22" source="FazVAZ5ABCCWiLlo9Mo_-43" target="FazVAZ5ABCCWiLlo9Mo_-45">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FazVAZ5ABCCWiLlo9Mo_-43" value="rencontre avec les fournisseurs" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="FazVAZ5ABCCWiLlo9Mo_-22">
+          <mxGeometry x="301" y="70" width="100" height="63" as="geometry" />
+        </mxCell>
+        <mxCell id="FazVAZ5ABCCWiLlo9Mo_-83" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="FazVAZ5ABCCWiLlo9Mo_-22" source="FazVAZ5ABCCWiLlo9Mo_-45">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="505" y="329" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FazVAZ5ABCCWiLlo9Mo_-45" value="negociation" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="FazVAZ5ABCCWiLlo9Mo_-22">
+          <mxGeometry x="471" y="81.5" width="100" height="51.5" as="geometry" />
+        </mxCell>
+        <mxCell id="FazVAZ5ABCCWiLlo9Mo_-89" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="FazVAZ5ABCCWiLlo9Mo_-22" source="FazVAZ5ABCCWiLlo9Mo_-49">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="815" y="-631" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FazVAZ5ABCCWiLlo9Mo_-49" value="signature du contrat" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="FazVAZ5ABCCWiLlo9Mo_-22">
+          <mxGeometry x="805" y="59" width="100" height="67.25" as="geometry" />
+        </mxCell>
+        <mxCell id="FazVAZ5ABCCWiLlo9Mo_-85" value="oui" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="FazVAZ5ABCCWiLlo9Mo_-22">
+          <mxGeometry x="-0.8793" relative="1" as="geometry">
+            <mxPoint x="525" y="381.0000000000002" as="sourcePoint" />
+            <mxPoint x="771" y="-581" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="772" y="381" />
+              <mxPoint x="772" y="-591" />
+            </Array>
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FazVAZ5ABCCWiLlo9Mo_-97" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="FazVAZ5ABCCWiLlo9Mo_-22">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="845" y="379" as="sourcePoint" />
+            <mxPoint x="845" y="129" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="845" y="259" />
+              <mxPoint x="845" y="124" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FazVAZ5ABCCWiLlo9Mo_-23" value="Fournisseur" style="swimlane;horizontal=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-904" y="1184" width="1004" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="FazVAZ5ABCCWiLlo9Mo_-48" value="interesse" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="FazVAZ5ABCCWiLlo9Mo_-23">
+          <mxGeometry x="451" y="52" width="100" height="72" as="geometry" />
+        </mxCell>
+        <mxCell id="FazVAZ5ABCCWiLlo9Mo_-98" value="non" style="endArrow=none;html=1;rounded=0;" edge="1" parent="FazVAZ5ABCCWiLlo9Mo_-23" target="FazVAZ5ABCCWiLlo9Mo_-103">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="504" y="124" as="sourcePoint" />
+            <mxPoint x="814" y="124" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FazVAZ5ABCCWiLlo9Mo_-75" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;exitX=0.684;exitY=1.018;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="FazVAZ5ABCCWiLlo9Mo_-28" target="FazVAZ5ABCCWiLlo9Mo_-60">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-631" y="340" as="sourcePoint" />
+            <mxPoint x="-628" y="513" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FazVAZ5ABCCWiLlo9Mo_-103" value="fin" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.delay;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="-80" y="1278" width="40" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FazVAZ5ABCCWiLlo9Mo_-105" value="base de donnee" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.stored_data;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="-462.5" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FazVAZ5ABCCWiLlo9Mo_-106" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="FazVAZ5ABCCWiLlo9Mo_-34" target="FazVAZ5ABCCWiLlo9Mo_-105">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

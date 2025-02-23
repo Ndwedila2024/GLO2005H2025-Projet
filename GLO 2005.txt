@@ -1,0 +1,40 @@
+CREATE TABLE SALES_PRODUCTS (
+    Sale_ID INTEGER PRIMARY KEY,
+    Produit_ID INTEGER,
+    Quantity INTEGER,
+    FOREIGN KEY (Product_ID) REFERENCES PRODUCTS(Product_ID)
+);
+
+CREATE TABLE BUY_PRODUCT (
+    Buy_ID INTEGER PRIMARY KEY,
+    Produit_ID INTEGER,
+    Quantity INTEGER,
+    FOREIGN KEY (Product_ID) REFERENCES PRODUCTS(Product_ID)
+);
+
+CREATE TABLE BUY (
+Buy_ID INTEGER PRIMARY KEY,
+Supplier_ID INTEGER,
+Warehouse_ID INTEGER,
+Buy_date DATETIME,
+Delivery_date DATETIME,
+Status ENUM('En attente', 'En cours', 'Livré', 'Annulé')
+ FOREIGN KEY (Supplier_ID) REFERENCES SUPPLIERS(Product_ID)
+ FOREIGN KEY (Warehouse_ID) REFERENCES WAREHOUSES(Warehouse_ID)
+
+);
+
+CREATE TABLE SALES (
+Sale_ID INT PRIMARY KEY,
+Warehouse_ID INT,
+Sale_date DATETIME,
+Delivery_date DATETIME,
+Status ENUM('En attente', 'En cours', 'Livré', 'Annulé')
+ FOREIGN KEY (Warehouse_ID) REFERENCES WAREHOUSES(Warehouse_ID)
+
+);
+
+
+
+
+
